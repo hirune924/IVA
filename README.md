@@ -12,7 +12,7 @@ Simple IVA(Intelligent Video Analytics) examples by using torchvision v0.3.0.
 * GPU and Web Camera
 
 ## Usage
-#### Capture
+#### Capture(Normal Camera, no post-process)
 `python capture.py`
 #### Object Detection
 `python detection.py`
