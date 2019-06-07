@@ -1,8 +1,9 @@
 # IVA
+Simple IVA(Intelligent Video Analytics) examples by using torchvision v0.3.0.
 
 ## Requirement
 * PyTorch 1.1
-* TorchVison v0.3.0
+* torchvison v0.3.0
 * OpenCV
 * Pillow
 * Numpy
